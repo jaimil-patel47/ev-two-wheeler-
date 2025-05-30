@@ -106,6 +106,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [Darji Neel G](https://github.com/Neel-Darji30)
 - [Panchal Sachin H](https://github.com/sachinpanchal1170)
+- [Patel Jaimil V](https://github.com/jaimil-patel47)
 
 ## Show your support
 
